@@ -1,5 +1,4 @@
-# SPOT: A Smartphone-Based Platform to Tackle Heterogeneity
-in Smart-Home Systems 
+# SPOT: A Smartphone-Based Platform to Tackle Heterogeneity in Smart-Home Systems 
  The recent advancements of smart-home technologies, includ-
 ing broad penetration of Internet-connected smart appliances
 such as remotely controllable LED lights, thermostats, cam-
